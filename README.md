@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hello, my name is Mário 👋
 
-<!--
-**Retchut/Retchut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am passionate about interactive design and development, mostly in the context of web applications and games.
 
-Here are some ideas to get you started:
+🎓 Taking a Master's Degree in Informatics and Computing Engineering @FEUP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:briefcase: I am the current President of the [Nucleus of Computer Graphics and Multimedia of FEUP](ncgm.fe.up.pt)
+
+:secret: Studying to take the JLPT N3 exam this summer
+
+:notebook: I’m currently learning:
+  - Svelte
+  - FastAPI
+  - Blender
+  
+:computer: I’m currently working on:
+  - A portable Raspberry Pi-based emulation station
+  - Porting my Library Tracker application, into a web app
+  
+:video_game: Currently (re)playing:
+  - The Jak series
+  - Fallout: A Post Nuclear Role Playing Game
+  - ポケモン不思議のダンジョン青の救助隊
+
+:mailbox_with_mail: I'm always looking for new opportunities! Collaboration, internships, work, you name it!
+
+## Visit Count
+![Visitor Count](https://profile-counter.glitch.me/Retchut/count.svg)
