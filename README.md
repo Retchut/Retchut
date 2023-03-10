@@ -15,10 +15,10 @@ I am passionate about interactive design and development, mostly in the context 
   
 :computer: I’m currently working on:
   - A portable Raspberry Pi-based emulation station
-  - Porting my Library Tracker application, into a web app
+  - Porting my Library Tracker application into a web app
   
 :video_game: Currently (re)playing:
-  - The Jak series
+  - The Jak & Daxter series
   - Fallout: A Post Nuclear Role Playing Game
   - ポケモン不思議のダンジョン青の救助隊
 
