@@ -14,7 +14,8 @@ I am passionate about interactive design and development, mostly in the context 
   - Blender
   
 :computer: I’m currently working on:
-  - A web application based on A-Frame that allows for the generation and exploration of VR environments, from photorealistic models
+  - A new version of my website
+  - Sentence mining
   
 :video_game: Currently (re)playing:
   - Fallout 2: A Post Nuclear Role Playing Game
