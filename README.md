@@ -9,13 +9,12 @@ I am passionate about interactive design and development, mostly in the context 
 :secret: Studying to take the JLPT N3 exam
 
 :notebook: I’m currently learning:
-  - A-Frame
-  - Photogrammetry
+  - Electronics
   - Blender
   
 :computer: I’m currently working on:
-  - A new version of my website
-  - Sentence mining
+  - A local media server powered by a NAS and a supercharged raspberry pi
+  - Japanese sentence mining
   
 :video_game: Currently (re)playing:
   - Fallout 2: A Post Nuclear Role Playing Game
