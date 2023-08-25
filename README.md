@@ -10,7 +10,7 @@ I am passionate about interactive design and development, mostly in the context 
 
 :notebook: I’m currently learning:
   - Electronics
-  - Blender
+  - Clockwork
   
 :computer: I’m currently working on:
   - A local media server powered by a NAS and a supercharged raspberry pi
