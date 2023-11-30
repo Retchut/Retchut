@@ -9,7 +9,8 @@ I am passionate about interactive design and development, mostly in the context 
 :secret: Studying to take the JLPT N3 exam
 
 :notebook: I’m currently learning:
-  - Electronics
+  - Photogrammetry
+  - WebGL
   - Clockwork
   
 :computer: I’m currently working on:
