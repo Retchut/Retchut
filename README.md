@@ -14,15 +14,15 @@ I am passionate about interactive design and development, mostly in the context 
   - Clockwork
   
 :computer: I’m currently working on:
-  - A local media server powered by a NAS and a supercharged raspberry pi
+  - My master's thesis on 3D object capture and rendering optimizations
   - Japanese sentence mining
   
 :video_game: Currently (re)playing:
-  - Risk of Rain 2
+  - Kingdom Hearts
   - Fallout 2: A Post Nuclear Role Playing Game
   - ポケモン不思議のダンジョン青の救助隊
 
-:mailbox_with_mail: I'm always looking for new opportunities! Collaboration, internships, work, you name it!
+:mailbox_with_mail: Currently occupied with a client, so any further inquiries will have to wait until further notice!
 
 ## Visit Count
 ![Visitor Count](https://profile-counter.glitch.me/Retchut/count.svg)
