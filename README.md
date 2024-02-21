@@ -4,12 +4,12 @@ I am passionate about interactive design and development, mostly in the context 
 
 🎓 Taking a Master's Degree in Informatics and Computing Engineering @FEUP
 
-:briefcase: I am the current President of the [Nucleus of Computer Graphics and Multimedia of FEUP](ncgm.fe.up.pt)
+:briefcase: I was the former President of the [Nucleus of Computer Graphics and Multimedia of FEUP](ncgm.fe.up.pt)
 
 :secret: Studying to take the JLPT N3 exam
 
-:notebook: I’m currently learning:
-  - Photogrammetry
+:notebook: I’m currently studying:
+  - Photogrammetry, NERFs and 3D Gaussian Splatting
   - WebGL
   - Clockwork
   
@@ -22,7 +22,7 @@ I am passionate about interactive design and development, mostly in the context 
   - Fallout 2: A Post Nuclear Role Playing Game
   - ポケモン不思議のダンジョン青の救助隊
 
-:mailbox_with_mail: Currently occupied with a client, so any further inquiries will have to wait until further notice!
+📪 Currently occupied with a client, so any new inquiries will have to wait until further notice!
 
 ## Visit Count
 ![Visitor Count](https://profile-counter.glitch.me/Retchut/count.svg)
