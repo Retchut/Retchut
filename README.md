@@ -10,7 +10,7 @@ I am passionate about interactive design and development, mostly in the context 
 
 :notebook: I’m currently studying:
   - Photogrammetry, NERFs and 3D Gaussian Splatting
-  - WebGL
+  - Graphics and Shader Programming
   - Clockwork
   
 :computer: I’m currently working on:
