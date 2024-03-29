@@ -8,7 +8,7 @@ I am passionate about interactive design and development, mostly in the context 
 
 :secret: Studying to take the JLPT N3 exam
 
-:notebook: I’m currently studying:
+:notebook: I’m also currently studying:
   - Photogrammetry, NERFs and 3D Gaussian Splatting
   - Graphics and Shader Programming
   - Clockwork
