@@ -18,7 +18,7 @@ I am passionate about interactive design and development, mostly in the context 
   - Japanese sentence mining
   
 :video_game: Currently (re)playing:
-  - Kingdom Hearts
+  - Kingdom Hearts Re:Chain of Memories
   - Fallout 2: A Post Nuclear Role Playing Game
   - ポケモン不思議のダンジョン青の救助隊
 
