@@ -2,23 +2,22 @@
 
 I am passionate about interactive design and development, mostly in the context of web applications and games.
 
-🎓 Taking a Master's Degree in Informatics and Computing Engineering @FEUP
+🎓 Master's Degree in Informatics and Computing Engineering @FEUP
 
 :briefcase: I was the former President of the [Nucleus of Computer Graphics and Multimedia of FEUP](ncgm.fe.up.pt)
 
 :secret: Studying to take the JLPT N3 exam
 
 :notebook: I’m also currently studying:
-  - Photogrammetry, NERFs and 3D Gaussian Splatting
+  - Emerging Front-End Web Development Tools
   - Graphics and Shader Programming
   - Clockwork
   
 :computer: I’m currently working on:
-  - My master's thesis on 3D object capture and rendering optimizations
+  - A Full Stack Portfolio Application with a Custom-built Management System
   - Japanese sentence mining
   
 :video_game: Currently (re)playing:
-  - Kingdom Hearts Re:Chain of Memories
   - Fallout 2: A Post Nuclear Role Playing Game
   - ポケモン不思議のダンジョン青の救助隊
 
