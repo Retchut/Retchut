@@ -17,7 +17,7 @@ I am passionate about interactive design and development, mostly in the context 
   - Japanese sentence mining
   
 :video_game: Currently (re)playing:
-  - Bomb Rush Cyberfunk
+  - Fallout 3
   - ポケモン不思議のダンジョン青の救助隊
 
 ## Visit Count
