@@ -2,9 +2,8 @@
 
 I am passionate about interactive design and development, mostly in the context of games and web applications.
 
-📚 Specialization Student in Interaction Design, Web and Games @FEUP & FBAUP
-
 🎓 Master's Graduate in Informatics and Computing Engineering @FEUP
+🎓 Specialization in Interaction Design, Web and Games @FEUP & FBAUP
 
 🚀: Currently a 3D Software Engineer @[Infinite Foundry](https://infinitefoundry.com/)
 
@@ -21,4 +20,4 @@ I am passionate about interactive design and development, mostly in the context 
   - ポケモン不思議のダンジョン青の救助隊
 
 ## Visit Count
-![Visitor Count](https://profile-counter.glitch.me/Retchut/count.svg)
+![Visitor Count](https://profile-counter.deno.dev/Retchut/count.svg)
